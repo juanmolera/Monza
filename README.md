@@ -4,6 +4,3 @@ Monza es una máquina recreativa creada en España y comercializada a partir del
 <img src="images/poster.png" width="500">
 
 <img src="images/wtfIsMonza.png" width="500">
-
-
-https://www.youtube.com/watch?v=e8ZcW-Klup4
